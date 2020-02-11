@@ -1,0 +1,24 @@
+body{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+
+.current{
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 50%;
+    padding: 5px 10px 5px 10px;
+    font-size: 40px;
+    
+}
+
+.future{
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 50%;
+    padding: 5px 10px 5px 10px;
+    font-size: 20px;
+}
