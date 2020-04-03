@@ -7,4 +7,6 @@ After pressing the set event button, the days, hours, mins and secs left until t
 
 The user can press the reset button and add a new event too.
 
+Demo: https://shovaaa.github.io/countdownJS/
+
 ![](images/countdown-screenshot.png)
