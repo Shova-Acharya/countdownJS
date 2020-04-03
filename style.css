@@ -1,12 +1,14 @@
-body{
+
+.timer {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translateX(-50%) translateY(-50%);
-}
+    transform: translate(-50%, -50%);
+  }
 
-
+ 
 .current{
+    margin: 20px;
     border-collapse: collapse;
     border: 1px solid black;
     width: 50%;
@@ -16,9 +18,20 @@ body{
 }
 
 .future{
-    border-collapse: collapse;
-    border: 1px solid black;
+   
     width: 50%;
     padding: 5px 10px 5px 10px;
     font-size: 20px;
+}
+
+.event{
+    margin: 5px;
+    padding: 5px 10px 5px 10px;
+    
+
+}
+.heading{
+    margin: 5px;
+    font: 50px;
+    font-weight: bold;
 }

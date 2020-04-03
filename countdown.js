@@ -1,4 +1,5 @@
-var eventDate, userYear, userMonth, userDate, userHours, userMinutes, userSeconds, userMil, currentDate, diff, hours, mins, sec, days;
+var eventDate, userYear, userMonth, userDate, userHours, userMinutes, userSeconds, userMil, currentDate, diff, 
+    hours, mins, sec, days;
 
 function setEvent(){
        currentTime();   
